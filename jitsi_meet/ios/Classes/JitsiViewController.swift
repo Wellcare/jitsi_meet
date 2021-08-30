@@ -39,7 +39,8 @@ class JitsiViewController: UIViewController {
     override func viewDidLoad() {
         
         //print("VIEW DID LOAD")
-        self.view.backgroundColor = .black
+        // self.view.backgroundColor = .black
+        self.view.backgroundColor = .clear
         super.viewDidLoad()
     }
     
